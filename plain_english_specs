@@ -1,0 +1,3 @@
+1. If we input "lizzie" and "lizzie" then it returns "1"
+2. If we input "lizzie and danielle" and "lizzie" then it returns "1"
+3. If we input "lizzie and danielle went to the store, lizzie" and "lizzie" then it returns 2. 
